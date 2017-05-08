@@ -1,19 +1,21 @@
 {  
   "name": "zhangqitao1/utils",  
   "description": "",  
+  "type": "library",
   "authors": [  
     {  
       "name": "qitao",  
       "email": "luguoit@163.com"  
     }  
   ],  
+  "license"    : "MIT",
   "require": {  
     "php": ">=5.4.0"
      
   },  
   "autoload": {  
     "psr-4": {  
-      "terry\\": ""  
+     "Oasis\\Mlib\\Utils\\": "src/"
     }  
   } 
 }  
