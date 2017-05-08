@@ -1,0 +1,19 @@
+{  
+  "name": "zhangqitao1/utils",  
+  "description": "",  
+  "authors": [  
+    {  
+      "name": "qitao",  
+      "email": "luguoit@163.com"  
+    }  
+  ],  
+  "require": {  
+    "php": ">=5.4.0"
+     
+  },  
+  "autoload": {  
+    "psr-4": {  
+      "terry\\": ""  
+    }  
+  } 
+}  
